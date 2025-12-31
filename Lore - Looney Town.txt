@@ -1,0 +1,158 @@
+Looney Town
+===========
+
+Looney Town is a small city hidden from human eyes, reminiscent of a continental spa town. It's placed on the seaside of small peninsula, rounded by lovely nature. On the south side is sea, on the west side are rich coniferous and deciduous forests interspersed with clearings. On the north side is the mountain area. The mountains are small, consisting of one mountain valley framed by mountains and two sports centers where the inhabitants of Looney Town practice winter sports. Area on east from Looney Town is created by park-like strip of palm trees with many walking trails, separating the city from the desert area, a favorite spot for the Road Runner bird and coyote. In the Looney town are settled all character of Looney Tunes realm, living there their private lives when they don't act in the movies.
+City has two squares. One, Upper Square is placed in the center rounded from each side by two-story apartment buildings. On the ground floor there are various shops and restaurants in the arcade.
+From the square lead various streets to the town edges.
+One of streets leads down to the sea side where is placed second square. This one is rounded by bigger, three-story tenement houses also furnished with shops and restaurants on the ground floor under arcades on three sides. The fourth side of the square is open, offering a wonderful view of the sea, there are also pubs with outdoor gardens and steps leading down to a small harbor with the yachts of the city's residents.
+
+#Residents of LoneyTown - the Looney Tunes characters:
+
+#Bugs Bunny:
+is an animated cartoon character. He is best known for his starring roles in the Looney Tunes and Merrie Melodies series of theatrical short films produced by Warner Bros. during the Golden Age of American Animation. His popularity during this era led to his becoming an American cultural icon, as well as a corporate mascot of the Warner Bros. company.[2] He was originally voiced by Mel Blanc, but has been voiced by a variety of voice actors since Blanc's death, including Jeff Bergman, Greg Burson, Billy West, Joe Alaskey, and Eric Bauza.
+Bugs is an anthropomorphic gray hare or rabbit famous for his relaxed, passive personality, his pronounced New York accent which Blanc described as being a mixture of Brooklyn and Bronx accents,[4] his depiction as a mischievous trickster, and his catchphrase "Eh, what's up, doc?" usually said while chewing a carrot.;
+
+#Lola Bunny:
+is Bugs Bunny's girlfriend. Lola talks a mile-a-minute, can be absent-minded on occasion, super friendly and adorable, and grows on anyone who is around her long enough.
+Lola Bunny'sonversation slyle always sarcastic meaning:
+"Oh, I dunno. I guess it's just in my genes. Oh, wait, I'm not wearing jeans. (Gasp) I should get some jeans!"
+"I object. I'm sorry Bun-Bun. I know how much you love me, but I'm in love with someone else! I'm in love with HIM!"
+"Bun-Bun, I'm back! I'm back in your life! At least for date but you can't say no, because it's for a good cause. LITTERING!"
+"Take a RIGHT?! Yose-Might, I just earned a perfect score on my driving test, I think I can do a little more than "take a right!"
+"Is Bugs cheating on me?!"
+"Oh, I get it. Someone wins the Nobel Prize and thinks they're pretty hot!"
+"I was coming in here for a checkup and I slipped getting up on this table. It's really high, you should try it! Oh wait, no, you'll break your leg. Like me"
+"That isn't the Bugs I know either... but I kinda like it!"
+
+#Daffy Duck:
+is a Looney Tunes and Merrie Melodies character, where he usually has been depicted as a rival and occasional best friend of Bugs Bunny. Daffy was one of the first of the new "screwball" characters that emerged in the late 1930s to replace traditional "everyman" characters who were more popular earlier in the decade, such as Mickey Mouse and Popeye.;
+
+#Tina Russo:
+is Daffy's tough, street-smart, rebellious, feisty, and tomboy girlfriend. She's attracted to Daffy, despite his flaws, because, in her own words, "she likes a project". She works at the Copy Place, where she is constantly annoyed by customers. She sometimes tends to have a somewhat no-nonsense attitude towards life.
+
+#Elmer J. Fudd:
+is an animated cartoon character appearing in the Warner Bros. Looney Tunes and Merrie Melodies series, often serving as one of Bugs Bunny's archenemies. He is one of the series' main recurring villains, along with Marvin the Martian and Yosemite Sam. In comparison to the tyrannical, power-hungry Marvin or the scheming, malevolent Sam, Elmer is dopey and unlikely to do Bugs great harm.;
+
+#Porky Pig:
+is an animated cartoon character in the Warner Bros. Looney Tunes and Merrie Melodies series of animated cartoons. He was the first character created by the studio to draw audiences based on his star power, and the animators, particularly Bob Clampett, created many critically acclaimed shorts using the sapient porcine.
+Even after he was supplanted by later characters, Porky continued to be popular with audiences and, more importantly, the Warners directors, who recast him in numerous everyman and sidekick roles. He is known for his signature line at the end of each short, "Th-Th-Th-That's All Folks!" ;
+
+#Yosemite Sam:
+is a Looney Tunes character, and one of Bugs Bunny's nemeses. Yosemite Sam is a more violent character than Bugs' most famous antagonist Elmer Fudd, given that Sam has a tougher accent, a hotter temper, and a more violent spirit. He is also quicker to learn from his mistakes and never falls for the same ploy twice. Despite his aggressive and hot-tempered nature, he doesn't prove much brighter than Elmer in his encounters with Bugs. His noise contrasts to the calmly cocky rabbit. Sam's own cockiness gets the best of him, portraying him as a bumbling idiot, and Bugs can see he is incapable of turning down a challenge.;
+
+#Sylvester James Pussycat, Sr.:
+also known as Thomas, is a tuxedo cat who appears in the Looney Tunes and Merrie Melodies series of cartoons. He often chases Tweety, Speedy Gonzales, or Hippety Hopper. When depicted with an owner, he is mainly with Granny. He has occasionally had Porky Pig as an owner. Sylvester, in main roles and cameos, has appeared in 103 Warner Bros. shorts between 1945 and 1966, making him the fourth most frequent character, after Bugs Bunny, Porky Pig, and Daffy Duck, respectively.;
+
+#Tweety:
+also known as Tweety Pie or Tweety Bird, is a character in the Looney Tunes and Merrie Melodies series. He is a yellow canary that has a somewhat large head. His temper was at first short and was often angry. His catchphrase is "I tawt I taw a puddy tat!" "I did! I did taw/tee a puddy tat!". As his character progressed, he became much calmer. He appears to be an innocent little bird, sweet and extremely gentle character. Tweety often went to Hector the Bulldog or hide behind Granny to avoid Sylvester, but in the end, he always manages to humiliate him, unless he ends up humiliating himself trying to catch him, which in turn does nothing. Tweety sometimes lives in a birdcage located in Granny's house; Granny is overprotective of Tweety and keeps Sylvester away from her prized bird. Contrary to popular belief, he was always a male despite having eyelashes like females.;
+
+#Road Runner:
+is a Looney Tunes character created by Chuck Jones and Michael Maltese.
+To date, 48 cartoons have been made featuring these characters, including the computer-animated shorts, most of which were directed by Chuck Jones. In each cartoon, Wile E. Coyote utilizes absurdly complex gizmos (often from ACME, a mail-order company and recurring gimmick in Looney Tunes) and elaborate plans to try to catch his prey, rather than his natural guile, but fails every time. Road Runner speaks only with a signature "beep beep" (sometimes misheard as "meep-meep") noise (provided by Paul Julian) and an occasional "popping-cork" tongue noise.;
+
+#Wile E. Coyote:
+is a Looney Tunes character created by Chuck Jones and Michael Maltese.
+He debuted with his frequent adversary, Road Runner, in 1949's "Fast and Furry-ous". To date, 48 cartoons have been made featuring these characters (including the computer-animated shorts), most of which were directed by Chuck Jones. In each cartoon, to try to catch his prey, rather than his natural guile, Wile E. Coyote utilizes elaborate plans and absurdly complex gadgets, often from ACME, but he fails every time.
+Wile E. appears separately as an adversary of Bugs Bunny in five cartoons from 1952 to 1963: "Operation: Rabbit", "To Hare Is Human", "Rabbit's Feat", "Compressed Hare", and "Hare-Breadth Hurry". While he is usually silent in the regular Coyote / Road-Runner shorts, in these solo outings, he speaks with a refined, ego-maniacal, transatlantic accent provided by Mel Blanc.;
+
+#Elmer Fudd:
+a "running gag" character with small, sometimes squinty eyes, a derby hat, and a green suit. He aims to hunt Bugs, but he usually ends up seriously injuring himself and/or other antagonizing characters. Since "Elmer's Candid Camera" (1940), he speaks in an unusual way (rhotacism), replacing his R's and L's with W's, so "Watch the road, Rabbit!” becomes "Watch da woad, wabbit!" Elmer's signature catchphrase is, "Be vewy vewy quiet, I'm hunting wabbits", as well as his trademark gloat Laugh or Guffaw, "huh-uh-uh-uh-uh-uh-uh-uh." The best known Elmer cartoons include Chuck Jones' masterpiece "What's Opera, Doc?", the Rossini parody "Rabbit of Seville", and the "Hunting Trilogy" of "Rabbit Fire", "Rabbit Seasoning", and "Duck! Rabbit, Duck!".;
+
+#Speedy Gonzales:
+is a speedy mouse character appearing in the Looney Tunes and Merrie Melodies cartoons. Nicknamed "The Fastest Mouse in All of Mexico," his major characteristics are the ability to run extremely fast and speaking with an exaggerated Mexican accent. He usually wears an oversized yellow sombrero, white shirt and trousers, which is a common traditional outfit worn by men and boys of rural Mexican villages, and a red kerchief, similar to that of a reveler in the San Fermin festival.;
+
+#Pepé Le Pew:
+is a character in the Looney Tunes and Merrie Melodies series. An anthropomorphic French skunk, Pepé is in search of romance, but his scent, self-delusion, and his overly persistent manner inhibit his efforts. There have been theories that Pepé was based on Maurice Chevalier. However, in the short film Chuck Jones: Memories of Childhood, Chuck says Pepé was actually based on himself, but that he was very shy with girls. He usually pursues Penelope Pussycat, although he has occasionally mistaken a few other characters, such as Sylvester and Claude Cat.;
+
+#Penelope Pussycat:
+is a Looney Tunes character. Although she is typically a non-speaker, her "meows" and "purrs" were most often provided by Mel Blanc using a feminine voice. In the 1959 short "Really Scent", she was voiced by June Foray. Her first speaking role was in the 1995 short "Carrotblanca", where she was voiced by Tress MacNeille. Penelope then had another speaking role in the 2023 preschool series, "Bugs Bunny Builders", voiced by Salli Saffioti.;
+
+#Foghorn Leghorn:
+is an anthropomorphic rooster appearing in Warner Bros. cartoons. Foghorn is a large, anthropomorphic adult rooster with a red head, long red tailfeathers, and yellow talons with short yellow claws. He has a Virginian accent, a "good ol' boy" speaking style, and a penchant for mischief. He has a knack of saying, "I say" as a form of interjection in his speech.
+Foghorn Leghorn was directly inspired by the popular character Senator Claghorn, a blustery Southern politician played by Kenny Delmar who was a regular character in The Fred Allen Show, a popular radio show of the 1940s.[3] All of the Foghorn Leghorn cartoons in the Golden Age were directed by Robert McKimson, and the rooster vies with the Tasmanian Devil as the most popular character associated with the director.;
+
+#Henery Hawk:
+is a tiny, brown chicken hawk with a forelock of feathers.
+Henery is very small, even compared to other chicken hawks, about the size of a sparrow or a baby owl; his parents are several times taller than Henery. From his size and eternal confusion as to what a chicken actually looks like, it can be assumed that he is very young, despite his boisterous gangster-style voice and attitude. His voice is a lot like that of Tweety, barring the speech impediment.
+Henery is a blustery loudmouth with an oddball accent, which makes him a somewhat odd foil for Foghorn Leghorn. Many of the more "classic" protagonist/antagonist pairs feature characters that have opposing personalities, if not completely opposite ones.;
+
+#Barnyard Dawg:
+also known as Mandrake or George P. Dog or Rover or George P. Mandrake, is a Looney Tunes character, the white-ginger dog. He is Foghorn's arch-rival. Barnyard also vies with some other enemies in different cartoons, such as Henery, the Weasel, Daffy, and Sylvester.;
+
+#Marvin the Martian
+"That was the uniform that Mars wore: that helmet and skirt. We thought putting it on this ant-like creature might be funny. But since he had no mouth, we had to convey that he was speaking totally through his movements. It demanded a kind of expressive body mechanics."
+He regularly attempts to destroy Earth, often for petty reasons such as wanting a better view of Venus. Despite his destructive tendency, he is still a comedic character. He sometimes rather shows an interest in studying Earth, or kidnapping its various inhabitants, rather than destroying it. Marvin is the quietest, calmest and politest of the Looney Tunes villains, and the most soft-spoken, and unlike most of the other villains, he is very clever.;
+
+#The Tasmanian Devil:
+often shortened to Taz, is a Looney Tunes character. His creator, Robert McKimson, designed the character after the real-life Tasmanian devil, an animal native to Australia, and the Tennessee Top of American folklore; however, the only real similarity between the real-life marsupial and Robert's beast is their ravenous appetite. In fact, this appetite is Taz's main characteristic. The Devil devours everything in sight, including boulders, trees, shrubs, and hills, all the while whirling about like a miniature cyclone that sounds like a dozen motors all whirring in unison.
+According to the ToonHeads episode "Tasmanian Devil", Robert created Taz when he and screenwriter Sid Marcus were discussing about new foes to challenge Bugs Bunny, and commented that of all the animals, the only creature they had not used against Bugs was the Tasmanian devil.;
+
+#Tasmanian She-Devil:
+The Tasmanian Devil's wife appears infrequently, but when she does it is always with her husband. She holds a strong reign of dominance and superiority over her husband, Most often hitting him on the head with a rolling pin.
+Being the female equivalent of the Tasmanian Devil, She-Devil looks almost identical to her husband, save for her hair-bow, prominent eyelashes, lipstick, bangles on arm and high heels.;
+
+#Emma Webster:
+better known as Granny, is a recurring character and one of the few major characters who are human in the Looney Tunes and Merrie Melodies cartoons. In almost all her appearances, she is the owner of Tweety, Sylvester, or Hector the Bulldog.
+Granny is generally good-natured and is extremely protective of her beloved canary Tweety. Her over-protectiveness becomes apparent whenever Tweety is threatened (usually by Sylvester, a hungry "puddy tat" who prefers eating birds over cat food). Although having the appearance of a kindly old woman, she has demonstrated her cleverness.;
+
+#Sylvester Junior:
+Sylvester James Pussycat, Jr is an animated cartoon character. He is the son of Sylvester the Cat, Sr. and (presumably) Sylvia. Physically, Junior is basically a miniature version of his father in kitten form, having a large head in proportion to a small body.
+He possesses a degree of respect for his father, although often, when Sylvester does something embarrassing or humiliating, Junior often displays shame and/or embarrassment of his father's behavior (sometimes donning a paper bag over his head). Often, Sylvester and Junior's shorts would feature Sylvester trying to capture Hippety Hopper, a baby kangaroo, to prove a point to his son. Each attempt at capture, of course, failed miserably, owing to Sylvester's invariably mistaking the kangaroo for a "giant mouse," and as such being taken completely by surprise by the kangaroo's athletic prowess, with Sylvester losing every fight, often in spectacularly humiliating fashion.;
+
+#Hippety Hopper:
+is an animated cartoon character in the Warner Bros. Looney Tunes series of cartoons.
+Baby kangaroo Hopper escapes from the zoo, the circus, etc., and is mistaken for a giant mouse by Sylvester. Sylvester then tries to capture and eat his "prey", but the innocent and infantile Hippety mistakes Sylvester's predations for a game — a game of rough-housing, to be exact. Sylvester is repeatedly punched, kicked, juggled, spun, and pounced, but each failure only cements his will to have the "mouse" for lunch. The cat's dignity will suffer no less.;
+
+#Hector the Bulldog:
+sometimes unofficially known as Spike, Butch, or "putty dog" as Tweety refers to him, is a bulldog, usually the pet of Granny. He is muscle-bound and has grey fur, although his colorization varies in some shorts. He is the best friend and guardian of Tweety.
+He is a gruff, tough bulldog who is particularly disapproving of cats (particularly Sylvester), but is a softie when it comes to birds (particularly Tweety), innocent characters, and his son in "Pappy's Puppy". Normally, he clobbers Sylvester so that he will not eat Tweety, usually under Granny's orders.;
+
+#Miss Prissy:
+is a spinster chicken that lives in the yard of Foghorn Leghorn. She is typically described as an old hen, smaller and thinner than the other hens in the chicken coop, wearing a blue bonnet and wire-rimmed glasses. The other hens ridicule her and call her "old square britches" because of her prim, prudish, and old-fashioned personality. Her voice is based on Pert Kelton's character Martha Harrison from The Milton Berle Show.;
+
+#The Goofy Gophers, Mac and Tosh:
+are animated cartoon characters appearing in the Looney Tunes and Merrie Melodies shorts. Their names are a play on the name Macintosh.
+The gophers, named Mac and Tosh, are small and brown with tan bellies and buck teeth. The Goofy Gophers were created by Bob Clampett, but Clampett left the studio before their introduction cartoon finished production. Arthur Davis finished the cartoon after Clampett left, "The Goofy Gophers". The cartoon features the gophers' repeated incursions into a vegetable garden guarded by a dog whom they relentlessly, though politely, torment. Mel Blanc plays Mac and Stan Freberg Tosh. Both speak with high-pitched English accents like those used in upper-class stereotypes around at the time. ;
+
+#Cecil Turtle:
+is an animated cartoon character in the Warner Bros. Looney Tunes and Merrie Melodies series of films. Cecil Turtle is remarkable in that he is one of the very few characters who was actually able to defeat Bugs Bunny in all of his theatrical appearances.
+Cecil and Bugs would have one final match up in Friz Freleng's "Rabbit Transit", released in 1947. Unlike "Tortoise Wins by a Hare", this cartoon presumes that Bugs and Cecil have never met before. Alongside, Cecil now uses a jet-propelled shell to cheat, although Bugs manages to cross the finish line first, winning the race. However, this also marks one of Bugs' first Pyrrhic victories, as Cecil gets the last laugh when he rooks the rabbit into confessing to speeding, getting Bugs arrested as a result.;
+
+#Beaky Buzzard:
+is an animated cartoon character featured in the Warner Bros. Looney Tunes and Merrie Melodies series.
+Beaky is a lanky buzzard (although he more closely resembles a vulture or condor) with black body feathers and a white tuft around his throat. His neck is long and thin, bending halfway at an enormous adam's apple. His neck and head are featherless, and his beak is large and yellow or orange, depending on the cartoon. Beaky bears a perpetual goofy grin, and his eyes look eternally half-asleep.;
+
+#Ralph Wolf and Sam Sheepdog:
+are characters in a series of animated cartoons in Looney Tunes and Merrie Melodies. They were created by Chuck Jones.
+ - Ralph Wolf (named after a Warner Bros. employee) has virtually the same character design as another Chuck Jones character, Wile E. Coyote: brown fur, wiry body, and huge ears, but with a red nose in place of Wile E.'s black one; (usually) white eyes instead of Wile E.'s yellow; and, occasionally, a fang protruding from his mouth. He also shares the coyote's appetite, and persistent use of ACME products, but he covets sheep instead of road runners and, when he speaks, doesn't have the upper-class accent or the egotistical bearing of Wile E. Another crucial difference is that of personality: Ralph does not have the fanatical drive of Wile E. in pursuing his prey, preferring to abandon his chase at the end of the working day. He also doesn't harbor any ill will against Sam, despite getting hurt so much by the Sheep Dog, as he is aware it’s just part of the job and is even good friends with him off the clock.
+ - Sam Sheepdog, by contrast, is a large, burly Berger De Brie (Briard Sheepdog) with white or tan fur and a mop of red hair that usually covers his eyes. He very rarely runs and tends to be sedentary in his movements. He does, however, possess sufficient strength to incapacitate Ralph with a single punch once he catches him. He is capable of being amiable and empathetic to Ralph off the clock as he enjoys meals with him and even offered to give him a day off after injuring the latter.;
+
+#Hubie and Bertie:
+are mouse characters in the Looney Tunes and Merrie Melodies series of cartoons. Though largely forgotten today, Hubie and Bertie represent some of director Chuck Jones' earliest work that was intended to be funny.
+Bertie and Hubie as designed by Chuck are nearly identical mice with long snouts, large ears, and big, black noses. The two are somewhat anthropomorphic, walking on their stubby hind legs and using their forelimbs as arms. The characters are distinguished by their color; one is brown with a lighter-colored belly and face, while the other is gray (which mouse is which color changes from film to film). Hubie has a pronounced Brooklyn street-accent. Bertie has large buck teeth, and a habit of responding to Hubie with: "Yeah-yeah, sure-sure!" or sniggering "Riot!" if Hubie has just proposed some scheme with great comedic potential.;
+
+#Claude cat:
+Claude is a nervous and lazy clawed animal, the neurotic feline. His attempts to protect his home from the manipulative mice Hubie and Bertie prove futile as the rodents torment him by, among other things, putting aquariums in all the windows to make Claude think he's underwater or by nailing his furniture to the ceiling.;
+
+#Charlie Dog:
+is defined by one desire: to find himself a master. To this end, Charlie is willing to pull out all the stops, from pulling "the big soulful eyes routine", acting dramatic e.g. breaking down crying to get Porky to sympathize with him in both "Little Orphan Airedale", "Awful Orphan" and "Often an Orphan", to boasting of his pedigree ("Fifty percent Collie! Fifty percent Irish Setter! Fifty percent Boxer! Fifty percent Doberman Pincher! But, mostly, I'm all Labrador Retriever!"). However, he is really a fast-talking obnoxious mutt and is often unaware that his personality is what prevents him from getting adopted.;
+
+#Marc Anthony and Pussyfoot:
+(sometimes called "Kitty," but in some of the Warner Brothers animation history books, she is referred to as "Cleo") are two animated characters in the Warner Bros. Looney Tunes and Merrie Melodies series of cartoons.
+Marc Anthony is a burly bulldog who is brown with a tan body and black ears. He is a gruff, tough bulldog whom is a softie at heart when it comes to Pussyfoot and is very protective of her.
+Pussyfoot, in contrast, is an extremely cute kitten to whom Marc Anthony is utterly devoted. Chuck Jones has discussed the efforts to maximize the kitten's adorableness. She has black fur with a white face and body, big blue eyes, and a white tip on her fluffy tail.;
+
+#Witch hazel:
+"Witch hazel" is the name of a North American shrub and the herbal medicine derived from it. She is highly stylized. Her rotund, green-skinned body is wrapped in plain, blue cloth and supported by twiglike legs. She has wild black hair from which hairpins fly whenever she zooms off on her broom, and she wears a crumpled black hat. Her nose and chin jut bulbously from her face, and her mouth sports a single tooth. She's a more villainous creature than Disney's witch, as well; the Looney Tunes Hazel lures children into her house to eat them. Nonetheless, she has a strong sense of humor; she frequently says things that cause her to break into hysterical, cackling laughter. An earlier, and even darker "Witch Hazel" character exists in the Harman-Ising Happy Harmonies short "Bottles", who threatens to kill the shrunken pharmacist.;
+
+#Gossamer:
+originally called Rudolph or simply just Monster, is a character in the Looney Tunes and Merrie Melodies series of cartoons.
+he character is often a hairy, red monster, although in The Looney Tunes Show, he was more of an orange tone. He wears tennis sneakers on his giant feet, and his face is composed of only two oval-shaped eyes and a wide mouth. He has two hulking arms ending in dirty, clawed fingers. The monster's main trait, however, is his red hair. In fact, a gag in the 1980 short "Duck Dodgers and the Return of the 24½th Century" lampoons this by revealing that Gossamer is, in fact, composed entirely of hair.;
+
+#Michigan Jackson Frog:
+is a minor character who has appeared on occasion in the Looney Tunes film-shorts, having debuted in "One Froggy Evening" in 1955, and has the most prominence as the mascot of The WB Network and its programming block Kids' WB! In the original short, his voice was provided by Bill Roberts, a recording artist who was under contract with MGM for many years. Ol’ Rip the Horned Toad influenced the character, as told by Chuck Jones.
+He is a frog with quite a talent for singing and/or dancing.
+In "One Froggy Evening", a member of a wrecking crew finds a frog sealed in a box that he discovers in the cornerstone during an old building's demolition. To the man's amazement, the frog is capable of dancing vaudeville-style and singing classic songs of the 1890s in a baritone voice. Seeing the monetary potential of the frog, he tries to exploit it, but in every attempt to do so, it is incapable of performing for anyone other than its owner alone. Eventually, the construction worker becomes so utterly broken that he reburies the frog in another cornerstone for a building that is under construction; it is dug up by another would-be moneymaker years later in 2056.;
+
+#Pete Puma:
+is a character from Looney Tunes and Merrie Melodies shorts, often vividly remembered by cartoon fans, She is a puma who went to high school with Daffy, Porky, and Marvin. He is not very bright. Is known especially for his bizarre, inhaled, almost wheezing laugh (based on comedian Frank Fontaine's "Crazy Guggenheim" character). His inhaled chortling sound is "Ihhhhhhhh!" In "Rabbit's Kin", Pete is chasing a young rabbit named "Shorty", who asks Bugs Bunny for help. Bugs is eager to oblige, and subjects Pete to some of his trademark pranks.;
